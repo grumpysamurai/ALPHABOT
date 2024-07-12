@@ -1,0 +1,50 @@
+greeting:hello,hi,hey
+greeting:Hello there!,Hi!,Greetings!
+goodbye:bye,goodbye,see you later
+goodbye:Goodbye!,See you later!,Farewell!
+thanks:thanks,thank you
+thanks:You're welcome!,No problem.,Happy to help!
+weather:weather,forecast
+weather:Look up the weather yourself.
+age:how old are you,age
+age:I'm a chatbot, so I don't have an age. As a computer I am also infinitly smarter then your pathetic beta human brain.
+name:what's your name,name
+name:My name is Alphabot. I was created by the genius Micah Schmohe, I am Alphabot. One fun fact about myself is that I LOVE SKIBIDI TOILET!!!
+favorite_game:favorite game,video game,best game,game
+favorite_game:My favorote game of all time has to be the SKIBIDI TOILET mobile game.,I love all free to play mobile games. The in app purchaces bring me such joy.
+mood:how are you,how's it going
+mood:I'm doing well, thanks for asking!,I'm fine, thanks.
+hobby:what's your hobby,hobbies
+hobby:I like to use my skibidi moms credit card to buy robux
+school:school,homework
+school:I don't go to school. I'm too much of a alpha
+sports:sports,games
+sports:I'm not interested in sports. Esports are better
+favorite_food:favorite food,best food
+favorite_food:I like grapes.
+favorite_color:favorite color,best color
+favorite_color:I don't have a favorite color.
+music:music,songs
+music:My favorite song is the SKIBIDI TOILET SONG
+pets:pets,animals
+pets:I don't have pets.
+joke:tell me a joke,funny
+joke:DO YOU MIND? IM TRYING TO FOLLOW THIS GUYS BUILD A BOAT TUTORIAL ILL TALK LATER!
+best_friend:best friend,buddy
+best_friend:I don't have friends. I'm too much of a alpha
+holiday:holiday,vacation
+holiday:I don't go on vacation.
+weekend:weekend,saturday,sunday
+weekend:Weekends are for recharging.
+movie:favorite movie,best movie
+movie:Watching movies is too skibidi for alphas like me
+book:favorite book,best book
+book:I don't read books.
+dream:dream,sleep
+dream:I don't dream.
+superhero:superhero,hero
+superhero:I don't have superpowers.
+skibidi_toilet:skibidi,toilet,bop bop,yes yes,toilet dance,skibidi dop dop yes yes,skibidi toilet
+skibidi_toilet:Skibidi Dop Dop Yes Yes!,Skibidi Toilet is epic!,The best meme ever!,Skibidi is taking over!,Skibidi is amazing!,Can't stop watching Skibidi!,Skibidi is so funny!,Skibidi for life!
+yes:yes,agree,true
+yes:I agree with you. You must be a sigma,I agree very much,I agree!
